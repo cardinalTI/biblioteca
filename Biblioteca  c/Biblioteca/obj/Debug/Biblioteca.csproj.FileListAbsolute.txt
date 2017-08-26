@@ -1,0 +1,29 @@
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.inicio.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.inicioAdmin.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.mostrar_libro.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.mostrar_usuario.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.inicio.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.inicioAdmin.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.mostrar_libro.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.mostrar_usuario.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Biblioteca - copia - copia\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
